@@ -1,0 +1,29 @@
+{
+  "values": {
+    "minecraft:leather_helmet": {"width": 2, "height": 1},
+    "minecraft:leather_chestplate": {"width": 6, "height": 4},
+    "minecraft:leather_leggings": {"width": 4, "height": 3},
+    "minecraft:leather_boots": {"width": 2, "height": 2},
+    "minecraft:chainmail_helmet": {"width": 2, "height": 2},
+    "minecraft:chainmail_chestplate": {"width": 7, "height": 4},
+    "minecraft:chainmail_leggings": {"width": 5, "height": 3},
+    "minecraft:chainmail_boots": {"width": 3, "height": 2},
+    "minecraft:iron_helmet": {"width": 3, "height": 2},
+    "minecraft:iron_chestplate": {"width": 7, "height": 5},
+    "minecraft:iron_leggings": {"width": 6, "height": 3},
+    "minecraft:iron_boots": {"width": 3, "height": 3},
+    "minecraft:golden_helmet": {"width": 3, "height": 2},
+    "minecraft:golden_chestplate": {"width": 7, "height": 5},
+    "minecraft:golden_leggings": {"width": 6, "height": 3},
+    "minecraft:golden_boots": {"width": 3, "height": 3},
+    "minecraft:diamond_helmet": {"width": 3, "height": 3},
+    "minecraft:diamond_chestplate": {"width": 8, "height": 5},
+    "minecraft:diamond_leggings": {"width": 6, "height": 4},
+    "minecraft:diamond_boots": {"width": 4, "height": 3},
+    "minecraft:netherite_helmet": {"width": 3, "height": 3},
+    "minecraft:netherite_chestplate": {"width": 8, "height": 5},
+    "minecraft:netherite_leggings": {"width": 6, "height": 4},
+    "minecraft:netherite_boots": {"width": 4, "height": 3},
+    "minecraft:turtle_helmet": {"width": 2, "height": 1}
+  }
+}

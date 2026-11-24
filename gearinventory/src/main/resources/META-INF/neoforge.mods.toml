@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All rights reserved"
+[[mods]]
+modId="gearinventory"
+version="1.0.1"
+displayName="Tactical Inventory"
+logoFile="gearinventory.png"
+description='''Тактический инвентарь: надетая броня даёт карманы, слоты рюкзака и элитр, режим лута, статы в инвентаре.
+Worn gear provides storage.'''
+[[mixins]]
+config="gearinventory.mixins.json"
+[[dependencies.gearinventory]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.gearinventory]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.gearinventory]]
+modId="curios"
+type="required"
+versionRange="[9.4,)"
+ordering="AFTER"
+side="BOTH"

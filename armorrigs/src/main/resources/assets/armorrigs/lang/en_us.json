@@ -1,0 +1,12 @@
+{
+  "screen.armorrigs.title": "Gear",
+  "key.categories.armorrigs": "Armor Rigs",
+  "key.armorrigs.open": "Open gear",
+  "button.armorrigs.open": "Gear",
+  "label.armorrigs.head": "HEADWEAR",
+  "label.armorrigs.chest": "TACTICAL RIG",
+  "label.armorrigs.legs": "PANTS",
+  "label.armorrigs.feet": "BOOTS",
+  "label.armorrigs.empty": "not worn",
+  "tooltip.armorrigs.size": "Pockets: %sx%s"
+}

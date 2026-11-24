@@ -1,0 +1,20 @@
+# Everything is ignored except the sources of our own mods.
+/*
+!/.gitignore
+!/README.md
+!/PLAN.md
+!/modlist.txt
+!/gearinventory/
+!/sbwtweaks/
+!/armorrigs/
+
+.gradle/
+build/
+libs/
+run/
+run-*/
+*.out
+*.err
+*.log
+*.class
+*.jar

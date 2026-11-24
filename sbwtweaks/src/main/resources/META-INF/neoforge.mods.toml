@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+[[mods]]
+modId="sbwtweaks"
+version="1.0.0"
+displayName="SBW Tweaks"
+description='''Superb Warfare without vehicles, with its loot in chests of every mod.'''
+[[dependencies.sbwtweaks]]
+modId="superbwarfare"
+type="required"
+versionRange="[0.8.9,)"
+ordering="AFTER"
+side="BOTH"

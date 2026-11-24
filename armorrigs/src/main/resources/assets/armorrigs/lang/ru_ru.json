@@ -1,0 +1,12 @@
+{
+  "screen.armorrigs.title": "Снаряжение",
+  "key.categories.armorrigs": "Разгрузки",
+  "key.armorrigs.open": "Открыть снаряжение",
+  "button.armorrigs.open": "Снаряжение",
+  "label.armorrigs.head": "ГОЛОВА",
+  "label.armorrigs.chest": "РАЗГРУЗКА",
+  "label.armorrigs.legs": "ПОНОЖИ",
+  "label.armorrigs.feet": "БОТИНКИ",
+  "label.armorrigs.empty": "не надето",
+  "tooltip.armorrigs.size": "Карманы: %s×%s"
+}
